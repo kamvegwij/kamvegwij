@@ -1,4 +1,4 @@
-<h1>Hey, I'm Kamvelihle!</h1>
+<h1>Hey, I'm Kamva!</h1>
 
 ### About Me
 
