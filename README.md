@@ -6,7 +6,7 @@ Software Engineer with a BSc Computer Science from the University of the Western
 - Constantly experimenting at the intersection of software, sound, and design
 - Self taught multi-instrumentalist (specialise in guitar) & sound designer
 
----
+
 
 ### My Stack
 
@@ -14,7 +14,7 @@ Software Engineer with a BSc Computer Science from the University of the Western
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
----
+
 
 ### Let's Connect
 
