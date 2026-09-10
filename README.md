@@ -4,6 +4,7 @@ Software Engineer with a BSc Computer Science from the University of the Western
 
 - Enterprise engineer, turning complex business problems into solid systems
 - Constantly experimenting at the intersection of software, sound, and design
+- Building and publishing custom libraries for development speed
 - Self taught multi-instrumentalist (specialise in guitar) & sound designer
 
 ---
