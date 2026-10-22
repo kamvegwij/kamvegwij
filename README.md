@@ -1,4 +1,4 @@
-# Hey, I'm Kamve!
+# Hey, I'm Kamvelihle!
 
 Software Engineer with a BSc Computer Science from the University of the Western Cape.
 
